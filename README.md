@@ -1,4 +1,4 @@
-# Astro Player
+# Listen 2 Music
 
 A Web application built using React, Redux & Deezer API.
 
